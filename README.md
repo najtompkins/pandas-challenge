@@ -7,3 +7,6 @@ An analysis of two merged data sets for a school district and each school within
 
  # Analysis 
   My analysis is attached as a Microsoft Word document for the purpose of a more aesthetically pleasing report. 
+
+# Citations
+  I'm not sure if this is necessary, but much of the code came from the pre-exisiting starter code provided by the starter file for the assignment.
